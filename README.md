@@ -1,6 +1,6 @@
 # Secret Santa
 
-Check it live on [mael.dev/secretsanta/](https://mael.dev/secretsanta/).
+Check it live on [netmelon.github.io/secretsanta](https://netmelon.github.io/secretsanta).
 
 ## License (MIT)
 
